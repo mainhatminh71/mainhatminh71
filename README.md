@@ -46,20 +46,41 @@
 <div align="center">
 
 <!-- Dòng 1 -->
-<a href="https://react.dev" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" height="55" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.typescriptlang.org" target="_blank"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" height="55" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="Java" height="55" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://skillicons.dev/icons?i=cs" alt="C#" height="55" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" height="55" /></a>
+<a href="https://react.dev" target="_blank">
+  <img src="https://skillicons.dev/icons?i=react" height="58" alt="React" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.typescriptlang.org" target="_blank">
+  <img src="https://skillicons.dev/icons?i=ts" height="58" alt="TypeScript" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.java.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=java" height="58" alt="Java" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=cs" height="58" alt="C#" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.python.org" target="_blank">
+  <img src="https://skillicons.dev/icons?i=python" height="58" alt="Python" />
+</a>
 
 <br><br>
 
 <!-- Dòng 2 -->
-<a href="https://fastapi.tiangolo.com" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" height="55" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.mongodb.com" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="55" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://skillicons.dev/icons?i=mssql" alt="SQL Server" height="55" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" height="55" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://vercel.com" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" height="55" /></a>
+<a href="https://fastapi.tiangolo.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=fastapi" height="58" alt="FastAPI" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.mongodb.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mongodb" height="58" alt="MongoDB" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- SQL Server fix đẹp (dùng icon chính thức từ Microsoft + fallback CDN) -->
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="58" alt="SQL Server" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://git-scm.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git" height="58" alt="Git" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://vercel.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vercel" height="58" alt="Vercel" />
+</a>
 
 </div>
 
