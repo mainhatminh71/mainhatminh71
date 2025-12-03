@@ -45,17 +45,21 @@
 
 <div align="center">
 
-<img alt="React" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/react.svg" width="50" height="50"/>
-<img alt="TypeScript" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/typescript.svg" width="50" height="50"/>
-<img alt="Java" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/java.svg" width="50" height="50"/>
-<img alt="C#" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/csharp.svg" width="50" height="50"/>
-<img alt="Python" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/python.svg" width="50" height="50"/>
+<!-- Dòng 1 -->
+<a href="https://react.dev" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" height="55" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.typescriptlang.org" target="_blank"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" height="55" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="Java" height="55" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://skillicons.dev/icons?i=cs" alt="C#" height="55" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" height="55" /></a>
+
 <br><br>
-<img alt="FastAPI" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/fastapi.svg" width="50" height="50"/>
-<img alt="MongoDB" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/mongodb.svg" width="50" height="50"/>
-<img alt="SQL Server" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/microsoftsqlserver.svg" width="50" height="50"/>
-<img alt="Git" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/git.svg" width="50" height="50"/>
-<img alt="Vercel" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/vercel.svg" width="50" height="50"/>
+
+<!-- Dòng 2 -->
+<a href="https://fastapi.tiangolo.com" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" height="55" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.mongodb.com" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="55" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://skillicons.dev/icons?i=mssql" alt="SQL Server" height="55" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" height="55" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://vercel.com" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" height="55" /></a>
 
 </div>
 
